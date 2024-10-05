@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 19 13:14:10 2024
 
-@author: User
+@author: Raouf Mamedov
 """
 
 import requests
